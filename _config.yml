@@ -1,7 +1,4 @@
 deploy:
-
 type: git
-
 repo: https://github.com/joulyman/joulyman.github.io.git
-
 branch: master
