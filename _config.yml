@@ -1,1 +1,4 @@
-theme: jekyll-theme-tactile
+deploy:
+  type: git
+  repo: <repository url>
+  branch: [branch]
