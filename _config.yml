@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repo: <repository url>
+  repo: <joulyman.github.io>
   branch: [branch]
